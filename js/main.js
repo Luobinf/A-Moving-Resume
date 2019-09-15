@@ -21,7 +21,7 @@ let result =`/**
     box-sizing:border-box;
     /*border: 1px solid red;*/
     padding: 16px;
-    width: 500px;
+    width: 520px;
     margin-left: 100px;
 }
 /*先做一个3D效果吧*/`
