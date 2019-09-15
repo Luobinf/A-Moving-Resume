@@ -2,7 +2,7 @@
 let result =`/**
 *
 * Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and an 
-* occasional freelance contractor.
+* freelance contractor.
 *
 * I build interactive websites.
 *
